@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{C4943B19-07FA-41A4-A5C9-8571284D5B12}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.BMICalc PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AE16B88A-4B9D-499B-98FC-1BEEB13FD1F0">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.BMICalc>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BMICalc.Android AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

@@ -1,0 +1,9 @@
+/Users/aarone2/Desktop/Repos/bmiCalculator/BMICalc/bin/iPhoneSimulator/Debug/BMICalc.exe
+/Users/aarone2/Desktop/Repos/bmiCalculator/BMICalc/bin/iPhoneSimulator/Debug/BMICalc.pdb
+/Users/aarone2/Desktop/Repos/bmiCalculator/BMICalc/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-11.0/ibtool/_BundleResourceWithLogicalName.items
+/Users/aarone2/Desktop/Repos/bmiCalculator/BMICalc/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-11.0/actool/_PartialAppManifest.items
+/Users/aarone2/Desktop/Repos/bmiCalculator/BMICalc/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-11.0/actool/_BundleResourceWithLogicalName.items
+/Users/aarone2/Desktop/Repos/bmiCalculator/BMICalc/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-11.0/optimized/
+/Users/aarone2/Desktop/Repos/bmiCalculator/BMICalc/obj/iPhoneSimulator/Debug/BMICalc.csproj.CoreCompileInputs.cache
+/Users/aarone2/Desktop/Repos/bmiCalculator/BMICalc/obj/iPhoneSimulator/Debug/BMICalc.exe
+/Users/aarone2/Desktop/Repos/bmiCalculator/BMICalc/obj/iPhoneSimulator/Debug/BMICalc.pdb

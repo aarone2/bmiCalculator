@@ -1,0 +1,4 @@
+BMICalc.Android.MainActivity, BMICalc.Android;md58faee9e0eb7615d51ec199fed30c0ba4.MainActivity
+BMICalc.Android.MainActivity, BMICalc.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58faee9e0eb7615d51ec199fed30c0ba4.MainActivity
+BMICalc.Android.MainActivity;md58faee9e0eb7615d51ec199fed30c0ba4.MainActivity
+bmicalc.android.MainActivity;md58faee9e0eb7615d51ec199fed30c0ba4.MainActivity
