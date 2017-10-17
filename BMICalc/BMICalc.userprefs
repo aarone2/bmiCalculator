@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E927F7C5-6597-498F-961E-94F658C527B0}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="BMICalc.Android/MainActivity.cs" Line="9" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BMICalc PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AE16B88A-4B9D-499B-98FC-1BEEB13FD1F0">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.BMICalc>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BMICalc.Android AndroidDesignerPreferredDevice="Nexus 5" PreferredExecutionTarget="Android.Nexus_5X_API_25" />
+</Properties>
